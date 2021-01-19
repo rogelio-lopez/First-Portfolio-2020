@@ -1,0 +1,11 @@
+html{
+    font-size: 10px;
+
+    --fontSize-bigAF: 7.993rem;
+    --fontSize-bigger: 5.653rem;
+    --fontSize-big: 3.998rem;
+    --fontSize-medium: 2.827rem;
+    --fontSize-small: 1.999rem;
+    --fontSize-smaller: 1.414rem;
+    --fontSize-base: 1rem;
+}
